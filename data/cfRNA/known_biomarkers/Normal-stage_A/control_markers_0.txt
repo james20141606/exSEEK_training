@@ -1,0 +1,11 @@
+hsa-miR-122-5p|miRNA|hsa-miR-122-5p|hsa-miR-122-5p|hsa-miR-122-5p|0|22
+hsa-miR-122-3p|miRNA|hsa-miR-122-3p|hsa-miR-122-3p|hsa-miR-122-3p|0|22
+hsa-miR-192-5p|miRNA|hsa-miR-192-5p|hsa-miR-192-5p|hsa-miR-192-5p|0|21
+hsa-miR-21-5p|miRNA|hsa-miR-21-5p|hsa-miR-21-5p|hsa-miR-21-5p|0|22
+hsa-miR-21-3p|miRNA|hsa-miR-21-3p|hsa-miR-21-3p|hsa-miR-21-3p|0|21
+hsa-miR-223-3p|miRNA|hsa-miR-223-3p|hsa-miR-223-3p|hsa-miR-223-3p|0|22
+hsa-miR-223-5p|miRNA|hsa-miR-223-5p|hsa-miR-223-5p|hsa-miR-223-5p|0|22
+hsa-miR-26a-5p|miRNA|hsa-miR-26a-5p|hsa-miR-26a-5p|hsa-miR-26a-5p|0|22
+hsa-miR-27a-3p|miRNA|hsa-miR-27a-3p|hsa-miR-27a-3p|hsa-miR-27a-3p|0|21
+hsa-miR-27a-5p|miRNA|hsa-miR-27a-5p|hsa-miR-27a-5p|hsa-miR-27a-5p|0|22
+ENSG00000274978.1|snRNA|RNU11|peak_1360|ENST00000387069.1|0|134

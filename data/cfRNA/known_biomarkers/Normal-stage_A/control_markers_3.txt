@@ -1,0 +1,2 @@
+hsa-miR-122-5p|miRNA|hsa-miR-122-5p|hsa-miR-122-5p|hsa-miR-122-5p|0|22
+hsa-miR-122-3p|miRNA|hsa-miR-122-3p|hsa-miR-122-3p|hsa-miR-122-3p|0|22
